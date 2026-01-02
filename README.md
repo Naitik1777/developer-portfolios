@@ -25,8 +25,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
-- [🥈 Aro Aruvi](https://themukesh.com) [[💻⚡ Full Stack Developer | Web • Mobile • APIs]
-- [Akil Amit](https://themukesh.com) [Full Stack Developer]
 - [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
@@ -34,10 +32,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app/)[Full Stack Developer | Ui/Ux Designer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
-- [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
 - [Aabraham James](https://seera.framer.website)
-- [Aaditya Domle-2 📌](https://adittya.site) [Full-Stack Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full-Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
@@ -1037,6 +1033,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
 - [Parth Sharma](https://parthsharma.me) [Full Stack Developer / Software Engineer]
+- [Parth Sharma](https://parthhin.me) [Full stack dev / UI/UX designer 🎊]
 - [Pasindu Dilshan](https://pasi-d.me)
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
